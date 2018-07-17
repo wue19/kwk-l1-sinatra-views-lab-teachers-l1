@@ -34,7 +34,7 @@ You can run `learn` to get the tests passing and see errors.
    `Joe`. Then, using ERB tags, say "Goodbye Joe" in an `h1` tag. This should get
    rendered via a GET `/goodbye` route by your `App` controller in `app.rb`.
 
-3. Create a template called `date.erb` in `views` that gets rendered via GET
+3. Create a template called `date.erb` in `views` that gets rendered via ``````
    `/date`. It should contain an `h1` with the content `Today`
 
 Using ERB tags, and the [DateTime
